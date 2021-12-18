@@ -3,7 +3,7 @@ Team9_GauravHanda_MohitShimpi
 
 Proposal- 
 
-CLATT Document-
+CLATT Document- https://codelabs-preview.appspot.com/?file_id=1w1n-1QX5pU1fbY6t94-yGP33wnOV7vTye-lg60_fFKs#0
 
 Application Link- https://movierecommendationteam9.herokuapp.com/
 
