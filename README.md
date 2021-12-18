@@ -11,7 +11,7 @@ https://team9movierecommendation.herokuapp.com/ - The one without recommendation
 
 ![Slug Heroku Warning](https://user-images.githubusercontent.com/78767870/146637114-96dda1c7-c78e-433a-be2e-e44cd3091313.png)
 
-Business Intillegence Reports- 
+Business Intillegence Reports- https://public.tableau.com/app/profile/gaurav.handa/viz/Marketing_Analytics_16398352638690/Story1?publish=yes
 
 Steps for Deployment on Local Machine-
 
