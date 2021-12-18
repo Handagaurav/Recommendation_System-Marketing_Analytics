@@ -16,5 +16,5 @@ Business Intillegence Reports- https://public.tableau.com/app/profile/gaurav.han
 Steps for Deployment on Local Machine-
 
 1) Download app.py, cover.jpg and all csv from Final_Project/7.Streamlit
-2) Change the path of cover.jpd and csv in app.py
+2) Change the path of cover.jpg and csv in app.py
 3) Run streamlit run app.py on cmd
