@@ -1,7 +1,7 @@
 # Movie Recommendation_System-Marketing_Analytics
 Team9_GauravHanda_MohitShimpi
 
-Proposal- 
+Proposal- https://docs.google.com/document/d/e/2PACX-1vQThfZfqAWe2fub6hUBxim4Eeic3ZNu0_yZCgAm1PrjBTDNfgJaoV0NAHoG1uuYXk6SkNeSXs1D_o_C/pub
 
 CLATT Document- https://codelabs-preview.appspot.com/?file_id=1w1n-1QX5pU1fbY6t94-yGP33wnOV7vTye-lg60_fFKs#0
 
